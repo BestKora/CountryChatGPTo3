@@ -19,6 +19,6 @@
 *  API with Map (position: $position) and Maker
 *  CLGeocoder() to get more accurate geographic coordinates of the country's capital and Task.detached to run in the background.
 
-The discussions are brief, informative and last from 1 to 25 seconds, with an average time of 8 seconds.
+The explanations are brief, informative and last from 1 to 25 seconds, with an average time of 8 seconds.
 
 I can recommend it as a training material for iOS developers.
